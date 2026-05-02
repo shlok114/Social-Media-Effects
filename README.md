@@ -29,4 +29,6 @@ Turns out, that was enough. Only a handful of people implemented CSS at all. Thi
 - It doesn't need to be complex to look complete.
 Don't add elements to fill space. Every section on this page earns its place.
 
-Inter-Collegiate Competition · DHB Soni College · 2026
+---
+
+_Inter-Collegiate Competition · DHB Soni College · 2026_
